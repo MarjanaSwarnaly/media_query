@@ -1,0 +1,12 @@
+
+.media_query{
+    background-color: teal;
+
+}
+.media_query h2{
+    height: 50vh;
+    font-size: 60px;
+    color: #fff;
+    text-align: center;
+    
+}
